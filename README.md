@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Atonix0/Atonix0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Atomic-Script](https://github.com/Atonix0/Atomic-Script)
 - 🌱 I’m currently learning typescript
@@ -16,4 +12,4 @@ Here are some ideas to get you started:
    - if you really need to reach me (cannot use these above) open an issue in any repository i own
 - 😄 Pronouns: me/i
 - ⚡ Fun fact: 1 + 1 = 2;
--->
+EOF
