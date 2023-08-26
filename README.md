@@ -10,6 +10,6 @@
    - my discussion tab 
    - my discord: Atonix0@_0bytes
    - if you really need to reach me (cannot use these above) open an issue in any repository i own
-- 😄 Pronouns: me/i
+- 😄 Pronouns: me/i you if you use anything else : 🤓
 - ⚡ Fun fact: 1 + 1 = 2;
 EOF
