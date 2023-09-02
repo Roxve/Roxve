@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Atomic-Script](https://github.com/Atonix0/Atomic-Script)
-- 🌱 I’m currently learning typescript with deno
+- 🔭 I’m currently working on [Atomic-Script](https://github.com/Atonix0/Atomic-Script) side project: [Crystalic*Interpreter](https://github.com/Atonix0/Crystalic-Interpeter)
+- 🌱 I’m currently learning crystal! (no not what you thinking thats an underrated programming language!)
 - 👯 I’m looking to collaborate on anything thats code is simple to understand
 - 🤔 I’m looking for help with my porject (see working on)
 - 💬 Ask me about anything
