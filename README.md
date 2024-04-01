@@ -5,5 +5,5 @@ saluton miaj geamikoj!
 - [OxygenVM](https://github.com/Roxve/OxygenVM)
 - **help appreciated!**
 
-# How to reach me:
+# how to reach me:
    - my discord: </Rŭxve>@_0bytes
