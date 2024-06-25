@@ -6,4 +6,4 @@ saluton miaj geamikoj!
 - **help appreciated!**
 
 # how to reach me:
-   - my discord: </Rŭxve>@_0bytes
+   - my discord: GenericRoxve@_0bytes
