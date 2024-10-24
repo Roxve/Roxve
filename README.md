@@ -1,5 +1,4 @@
 # currently working on: 
-- [Covalent](https://github.com/Roxve/CovalentNightly) 
 - [NaviOS](https://github.com/NaviOSS/NaviOS)
 - **help appreciated!**
 
