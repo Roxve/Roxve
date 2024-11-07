@@ -1,5 +1,5 @@
 # currently working on: 
-- [NaviOS](https://github.com/NaviOSS/NaviOS)
+- [SafaOS](https://github.com/SafaOS/SafaOS)
 - **help appreciated!**
 
 # how to reach me:
